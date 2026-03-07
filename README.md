@@ -60,7 +60,7 @@ Descriptions of scripts are shown below:
 
 ## 3. Data Availability
 
-The viral genomes data and associated databases for OAVGC are stored at **Zenodo**: [https://zenodo.org/records/15037349](https://zenodo.org/records/15037349).
+The viral genomes data and associated databases for OAVGC are stored at **Zenodo**: [https://zenodo.org/records/18885820](https://zenodo.org/records/18885820).
 
 | Description                                     | Size   | Filename          |
 | :---------------------------------------------- | :----- | :---------------- |
