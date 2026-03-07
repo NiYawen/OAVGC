@@ -60,13 +60,18 @@ Descriptions of scripts are shown below:
 
 ## 3. Data Availability
 
-The viral genomes data and associated databases for OAVGC are stored at **Zenodo**: [https://zenodo.org/records/18885820](https://zenodo.org/records/18885820).
+The viral genomes data and associated databases for OAVGC are stored at **Zenodo**:[https://doi.org/10.5281/zenodo.18896747](https://doi.org/10.5281/zenodo.18896747).
 
-| Description                                     | Size   | Filename          |
-| :---------------------------------------------- | :----- | :---------------- |
-| **Kraken & Bracken Database**                   | 40 GB  | `OAVGC.v1.tar.gz` |
-| **All Viral Genomes (high-quality, n=141,459)** | 2.1 GB | `virus.fna.gz`    |
-| **vOTU Representative Genomes (n=68,708)**      | 979 MB | `votu.fa.gz`      |
+| Description                                          | Size     | Filename          |
+| :--------------------------------------------------- | :------- | :---------------- |
+| **Kraken & Bracken Database**                        | 42.5 GB  | `OAVGC.v1.tar.gz` |
+| **All Viral Genomes (high-quality, n=141,459)**      | 2.2 GB   | `virus.fna.gz`    |
+| **Viral Genome Quality Assessment (CheckV results)** | 2.2 MB   | `virus.ckv.gz`    |
+| **vOTU Representative Genomes (n=68,708)**           | 1.0 GB   | `votu.fa.gz`      |
+| **vOTU Protein Sequences**                           | 764 MB   | `votu.faa.gz`     |
+| **vOTU Coding Sequences (CDS)**                      | 1.1 GB   | `votu.ffn.gz`     |
+| **vOTU Gene Annotations (GFF format)**               | 175.6 MB | `votu.gff.gz`     |
+| **vOTU Clustering Information**                      | 4.9 MB   | `votu.clu.tsv`    |
 
 ## 4. Kraken2 & Bracken Database Structure
 
