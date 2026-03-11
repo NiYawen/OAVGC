@@ -123,7 +123,7 @@ for (com in all_combinations){
     var <- filter(res_p,subset == m) %>% .[,"name"]
     formula= paste0("dist.dt~",paste(var,collapse="+"))
     print(formula)
-    ados = adonis2(as.formula(formula), data=metaf, by=NULL, parallel=40, na.action = na.omit) #parallel参数指定使用的并行处理的核心数，na.action=na.omit分析中忽略缺失值
+    ados = adonis2(as.formula(formula), data=metaf, by=NULL, parallel=40, na.action = na.omit) 
     r2 = ados$R2[1]
     p = ados$`Pr(>F)`[1]
     adjr = get_adjusted_r2(ados)
@@ -653,3 +653,4 @@ spu.vir.test <- survival_event_plot(
   title = paste0("Spu virome ",group.var),
   color.map = NULL
 )
+
