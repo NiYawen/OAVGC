@@ -1,0 +1,22 @@
+mean_r2,site,type,vector,source
+0.223213303,OP,Elderly_health_scores,Elderly health,OP Elderly health
+0.189749102,OP,FEV1_FVC_ratio,Lung function,OP Lung function
+0.248662621,OP,FEV1_percent,Lung function,OP Lung function
+0.245213454,OP,FVC_percent,Lung function,OP Lung function
+0.216812255,OP,Mental_health_scores,Elderly health,OP Elderly health
+0.246446708,OP,Physical_health_scores,Elderly health,OP Elderly health
+0.217032805,OP,Social_health_scores,Elderly health,OP Elderly health
+0.233098987,Sputum,Elderly_health_scores,Elderly health,Sputum Elderly health
+0.223766598,Sputum,FEV1_FVC_ratio,Lung function,Sputum Lung function
+0.247670314,Sputum,FEV1_percent,Lung function,Sputum Lung function
+0.284137795,Sputum,FVC_percent,Lung function,Sputum Lung function
+0.189996098,Sputum,Mental_health_scores,Elderly health,Sputum Elderly health
+0.238333131,Sputum,Physical_health_scores,Elderly health,Sputum Elderly health
+0.264795909,Sputum,Social_health_scores,Elderly health,Sputum Elderly health
+0.247461356,OP and Sputum,Elderly_health_scores,Elderly health,OP and Sputum Elderly health
+0.237309918,OP and Sputum,FEV1_FVC_ratio,Lung function,OP and Sputum Lung function
+0.263054723,OP and Sputum,FEV1_percent,Lung function,OP and Sputum Lung function
+0.279588806,OP and Sputum,FVC_percent,Lung function,OP and Sputum Lung function
+0.217916061,OP and Sputum,Mental_health_scores,Elderly health,OP and Sputum Elderly health
+0.277675355,OP and Sputum,Physical_health_scores,Elderly health,OP and Sputum Elderly health
+0.269220399,OP and Sputum,Social_health_scores,Elderly health,OP and Sputum Elderly health

@@ -1,0 +1,11 @@
+Sample_ID,NCBI_BioSample_ID,NCBI_BioProject_ID_raw,NCBI_BioProject_ID,DataType,DNA / RNA,Sample_type,Sample_site_raw,Sample_site,Country,Gender,Age,BMI,Disease,Disease_name,Number of reads/paired,Max length of reads,Number of bases (Gbp),Number of Assembled contigs (>= 5kbp),Project_samplesite
+010003-01V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,F,86,20.23,Disease,Upper respiratory tract infection,9679434,151,1.4519151,1842,BWPR (this study)_Oropharynx
+010007-01V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,F,85,27.4,Disease,Upper respiratory tract infection,28196960,151,4.229544,3097,BWPR (this study)_Oropharynx
+010008-03V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,M,92,25.8,Disease,Upper respiratory tract infection,9973868,151,1.4960802,1109,BWPR (this study)_Oropharynx
+010009O2V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,F,84,22.6,Disease,Upper respiratory tract infection,3915342,150,0.5873013,403,BWPR (this study)_Oropharynx
+010009O3V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,F,84,22.6,Disease,Upper respiratory tract infection,10684826,150,1.6027239,2111,BWPR (this study)_Oropharynx
+010019-01V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,F,90,21.6,Disease,Upper respiratory tract infection,59727548,151,8.9591322,6618,BWPR (this study)_Oropharynx
+010020-01V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,F,87,22,Disease,Upper respiratory tract infection,78623134,151,11.7934701,6032,BWPR (this study)_Oropharynx
+010028O2V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,F,81,23.3,Disease,Upper respiratory tract infection,22599824,151,3.412573424,0,BWPR (this study)_Oropharynx
+010041O1V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,F,91,22,Disease,Upper respiratory tract infection,3163980,151,0.47776098,0,BWPR (this study)_Oropharynx
+010042O1V1,NA,BWPR (this study),BWPR (this study),Bulk metagenome,DNA,airway,OP,Oropharynx,China,M,85,20.8,Disease,Upper respiratory tract infection,11706984,151,1.767754584,0,BWPR (this study)_Oropharynx

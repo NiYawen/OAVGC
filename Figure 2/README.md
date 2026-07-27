@@ -1,0 +1,1 @@
+Upload the .txt annotation files to iTOL by dragging and dropping them sequentially in the desired order
